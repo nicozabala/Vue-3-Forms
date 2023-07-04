@@ -110,7 +110,7 @@ export default {
   },
   methods: {
     createEvent () {
-      console.log('submit')
+      // console.log('submit')
     }
   }
 }
